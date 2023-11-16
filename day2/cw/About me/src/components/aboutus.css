@@ -1,0 +1,14 @@
+.content
+{
+    background-color: black;
+    color: azure;
+    border-radius: 7px;
+    padding: 5px;
+    font-size: 18px;
+}
+.App
+{
+    background-color: gray;
+    padding: 3px;
+    font-style: italic;
+}
